@@ -3,7 +3,7 @@ export const projects = [
     title: "Desenvolvedor Full Stack PL",
     subtitle: "FIEP",
     description:
-      "Desenvolvi uma aplicação de agendamento com Power Apps e também atuei como desenvolvedor Microsoft Dynamics 365 FO (ERP), C# X++, Microsoft SQL Server, Microsoft Dev Ops e fluxos automatizados como Microsoft (Power Automate)",
+      "Desenvolvi uma aplicação de agendamento com Power Apps e também atuei como desenvolvedor Microsoft Dynamics 365 FO (ERP), C# X++, Microsoft SQL Server, Microsoft Dev Ops e fluxos automatizados com o Microsoft (Power Automate)",
     image: "./project-1.gif",
   },
   {
@@ -24,7 +24,7 @@ export const projects = [
     title: "Técnico em Eletrônica digital especializado em notebooks",
     subtitle: "Proprietário",
     description:
-      "Técnico especializado em reparos avançados e manutenção de placa mãe de notebook.",
+      "Técnico especializado em reparo avançado e manutenção de placa mãe de notebook.",
     image: "./project-4.gif",
   },
 ];

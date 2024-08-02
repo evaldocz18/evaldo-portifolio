@@ -23,8 +23,9 @@ export default function About() {
           </p>
           <div className="flex justify-center">
             <a
-              href="#contact"
+              href="https://firebasestorage.googleapis.com/v0/b/evaldo-portifolio.appspot.com/o/Curriculo%20Evaldo%20de%20Souza%20Oliveira.pdf?alt=media&token=bd0da6f0-0cbc-4261-abd3-631ac42cf75cs"
               className="justify-center inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
+              
               Download CV
             </a>
             <a
